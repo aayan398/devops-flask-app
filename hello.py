@@ -15,6 +15,7 @@ def about():
 	return """
 	<p>This application runs on the Flask web framework.</p>
 	<p><a href="https://flask.palletsprojects.com/">Flask websites</a></p>
+	<p><a href="https://www.python.org/">Visit the Python website</a></p>
 	<p><a href="/">Home</a></p>
             """
 
