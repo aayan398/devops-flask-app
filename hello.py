@@ -5,7 +5,7 @@ app = Flask(_name_)
 @app.route("/")
 def home():
 	return"""
-           <p>This is another String p!</p>
+	    <p>Welcome! this is another string!</p>
 	   <p><a href="/about">About</a></p>
            <p><a href="/contact>Contact</a></p>
 	      """
